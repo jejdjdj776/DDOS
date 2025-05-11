@@ -1,0 +1,13 @@
+python-telegram-bot
+httpx
+idna
+certifi
+anyio
+httpcore
+h11
+sniffio
+typing_extensions
+scapy
+asyncio
+python-dotenv
+psutil
